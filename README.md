@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Rutina de Gimnasio Full Body en Máquinas para Adultos Mayores
+![image](https://github.com/user-attachments/assets/9919ff63-7382-4267-806e-c3590ad969d6)# 🏋️‍♂️ Rutina de Gimnasio Full Body en Máquinas para Adultos Mayores
 
 Una rutina de ejercicios diseñada específicamente para personas mayores de 65 años, enfocada en ejercicios con máquinas para mayor seguridad y estabilidad.
 
@@ -15,9 +15,9 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 ### 1. Prensa de Piernas (Leg Press)
 
-**Grupo Muscular**: Piernas completas (cuádriceps, isquiotibiales, glúteos)
-
 ![hippo](https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif)
+
+**Grupo Muscular**: Piernas completas (cuádriceps, isquiotibiales, glúteos)
 
 **Ejecución**:
 * Ajustar el asiento para un ángulo de 90° en rodillas
@@ -30,6 +30,8 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 * Mantener espalda pegada al respaldo
 
 ### 2. Press de Pecho en Máquina
+
+![hippo](https://www.thingys.com.ar/gymapps/tutorial/maqpecho.gif)
 
 **Grupo Muscular**: Pectorales y tríceps
 
@@ -45,6 +47,8 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 ### 3. Remo en Máquina Sentado
 
+![hippo](https://www.thingys.com.ar/gymapps/tutorial/dor6.gif)
+
 **Grupo Muscular**: Espalda y bíceps
 
 **Ejecución**:
@@ -58,6 +62,8 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 * Evitar movimientos bruscos
 
 ### 4. Press de Hombros en Máquina
+
+![hippo](https://www.thingys.com.ar/gymapps/tutorial/hombro.gif)
 
 **Grupo Muscular**: Deltoides y trapecio
 
@@ -75,6 +81,8 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 **Grupo Muscular**: Cuádriceps
 
+![hippo](https://www.thingys.com.ar/gymapps/tutorial/camillazx.gif)
+
 **Ejecución**:
 * Rodillas al borde del asiento
 * Extensión controlada
@@ -85,19 +93,6 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 * No bloquear rodillas
 * Mantener espalda apoyada
 
-### 6. Curl de Piernas en Máquina (Opcional)
-
-**Grupo Muscular**: Isquiotibiales
-
-**Ejecución**:
-* Posición boca abajo
-* Rodillo ajustado al talón
-* Flexión controlada de rodillas
-* Retorno lento
-
-**Precauciones**:
-* No levantar cadera del soporte
-* Mantener movimiento fluido
 
 ## ⚠️ Consideraciones Importantes
 
