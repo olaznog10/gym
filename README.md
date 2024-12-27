@@ -17,6 +17,8 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 **Grupo Muscular**: Piernas completas (cuádriceps, isquiotibiales, glúteos)
 
+https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif
+
 **Ejecución**:
 * Ajustar el asiento para un ángulo de 90° en rodillas
 * Pies separados al ancho de hombros
