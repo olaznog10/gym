@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9919ff63-7382-4267-806e-c3590ad969d6)# 🏋️‍♂️ Rutina de Gimnasio Full Body en Máquinas para Adultos Mayores
+# 🏋️‍♂️ Rutina de Gimnasio Full Body en Máquinas para Adultos Mayores
 
 Una rutina de ejercicios diseñada específicamente para personas mayores de 65 años, enfocada en ejercicios con máquinas para mayor seguridad y estabilidad.
 
