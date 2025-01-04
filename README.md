@@ -14,8 +14,9 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 ## 💪 Ejercicios
 
 ### 1. Prensa de Piernas (Leg Press)
-
-![hippo](https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif)
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif) | |
 
 **Grupo Muscular**: Piernas completas (cuádriceps, isquiotibiales, glúteos)
 
@@ -31,7 +32,9 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 ### 2. Press de Pecho en Máquina
 
-![hippo](https://www.thingys.com.ar/gymapps/tutorial/maqpecho.gif)
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/maqpecho.gif) |  |
 
 **Grupo Muscular**: Pectorales y tríceps
 
@@ -47,7 +50,9 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 ### 3. Remo en Máquina Sentado
 
-![hippo](https://www.thingys.com.ar/gymapps/tutorial/dor6.gif)
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/dor6.gif) |  |
 
 **Grupo Muscular**: Espalda y bíceps
 
@@ -63,7 +68,9 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 ### 4. Press de Hombros en Máquina
 
-![hippo](https://www.thingys.com.ar/gymapps/tutorial/hombro.gif)
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/hombro.gif) |  |
 
 **Grupo Muscular**: Deltoides y trapecio
 
@@ -77,11 +84,15 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 * No bloquear codos
 * Mantener espalda apoyada
 
+## 💪 Ejercicios Opcionales
+
 ### 5. Extensión de Piernas en Máquina
 
 **Grupo Muscular**: Cuádriceps
 
-![hippo](https://www.thingys.com.ar/gymapps/tutorial/camillazx.gif)
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/camillazx.gif) |  |
 
 **Ejecución**:
 * Rodillas al borde del asiento
@@ -92,6 +103,42 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 **Precauciones**:
 * No bloquear rodillas
 * Mantener espalda apoyada
+
+### 6. Extensión de Tríceps en Máquina
+
+**Grupo Muscular**: Tríceps
+
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/exten_maq.gif) |  |
+
+**Ejecución**:
+* Ajustar asiento y respaldo
+* Codos pegados al cuerpo
+* Extender brazos controladamente
+* Retorno lento manteniendo tensión
+
+**Precauciones**:
+* No bloquear codos en extensión
+* Mantener espalda apoyada
+
+### 7. Jalón al Pecho en Máquina (Lat Pulldown)
+
+| Ejemplo  | Máquina |
+| ------------- | ------------- |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/dors2.gif) |  |
+
+**Grupo Muscular**: Dorsales y espalda alta
+
+**Ejecución**:
+* Ajustar rodillos a la altura del muslo
+* Agarre más ancho que los hombros
+* Tirar hacia el pecho controladamente
+* Retorno lento y controlado
+
+**Precauciones**:
+* No balancear el cuerpo
+* Mantener pies firmes en el suelo
 
 
 ## ⚠️ Consideraciones Importantes
