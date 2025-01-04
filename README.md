@@ -16,7 +16,7 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 ### 1. Prensa de Piernas (Leg Press)
 | Ejemplo  | Máquina |
 | ------------- | ------------- |
-| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif) | |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/beinpresse_45_grad%20(1).gif) | ![prensa](https://github.com/user-attachments/assets/3ba51761-a888-40d1-8d29-68ca0cb54862) |
 
 **Grupo Muscular**: Piernas completas (cuádriceps, isquiotibiales, glúteos)
 
@@ -52,7 +52,7 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 | Ejemplo  | Máquina |
 | ------------- | ------------- |
-| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/dor6.gif) |  |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/dor6.gif) | ![remo](https://github.com/user-attachments/assets/d97c5f31-f235-44e0-9b00-c877c8b153e2) |
 
 **Grupo Muscular**: Espalda y bíceps
 
@@ -92,7 +92,7 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 | Ejemplo  | Máquina |
 | ------------- | ------------- |
-| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/camillazx.gif) |  |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/camillazx.gif) | ![cuadriceps](https://github.com/user-attachments/assets/a905fbcb-6224-4e09-a5c1-da9e6b5f95b2) |
 
 **Ejecución**:
 * Rodillas al borde del asiento
@@ -110,7 +110,7 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 | Ejemplo  | Máquina |
 | ------------- | ------------- |
-| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/exten_maq.gif) |  |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/exten_maq.gif) | ![triceps](https://github.com/user-attachments/assets/2c4a8883-d5a0-4a22-9aea-d2b827d292bd) |
 
 **Ejecución**:
 * Ajustar asiento y respaldo
@@ -126,7 +126,7 @@ Una rutina de ejercicios diseñada específicamente para personas mayores de 65 
 
 | Ejemplo  | Máquina |
 | ------------- | ------------- |
-| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/dors2.gif) |  |
+| ![hippo](https://www.thingys.com.ar/gymapps/tutorial/dors2.gif) | ![espalda](https://github.com/user-attachments/assets/9d8d3382-ffe6-4daa-bf7b-818950417a9c) |
 
 **Grupo Muscular**: Dorsales y espalda alta
 
